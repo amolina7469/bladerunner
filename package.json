@@ -1,0 +1,21 @@
+{
+  "name": "bladerunner",
+  "displayName": "bladerunner",
+  "description": "Dark theme based in the colors of the film.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blade Runner",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Blade Runner-color-theme.json"
+      }
+    ]
+  }
+}
