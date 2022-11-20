@@ -2,7 +2,7 @@
 	"name": "Blade Runner",
 	"colors": {
 		"editor.background": "#202125",
-		"editor.foreground": "#9cf3df",
+		"editor.foreground": "#19caa1",
 		"activityBarBadge.background": "#202125",
 		"sideBarTitle.foreground": "#ffffff",
 		"statusBar.background": "#242c44",
@@ -44,7 +44,7 @@
     "terminalCursor.foreground":"#e1287e",
     "terminal.foreground":"#1c8eeb",
 		"debugIcon.breakpointForeground": "#e1287e",
-		"icon.foreground": "#ffffff"
+		"icon.foreground": "#fffbfb"
 		
 	},
 	"tokenColors": [
@@ -116,7 +116,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#d614ff"
+				"foreground": "#a49ca7"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#f352bd"
 			}
 		},
 		{
@@ -190,7 +190,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#a9b1c7"
+				"foreground": "#4176e7"
 			}
 		},
 		{
