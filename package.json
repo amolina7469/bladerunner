@@ -25,6 +25,8 @@
     "url": "www.linkedin.com/in/amancio-molina"
   },
   "repository": {
-    "url":
-  }
+    "url":"https://github.com/amolina7469/bladerunner-them-VSCode.git",
+    "type": "git"
+  },
+  "publisher": "code-runner"
 }
