@@ -17,5 +17,14 @@
         "path": "./themes/Blade Runner-color-theme.json"
       }
     ]
+  },
+  "icon": "icons/bladerunner",
+  "author": {
+    "name": "Amancio Molina",
+    "email": "amancio.molina@gmail.com",
+    "url": "www.linkedin.com/in/amancio-molina"
+  },
+  "repository": {
+    "url":
   }
 }
